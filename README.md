@@ -1,5 +1,5 @@
-# Project Jokenpo
-> Status: Developing ⚠️
+# Project Name
+> Status: Developing ⚠️ (version 0.1.0-a.1)
 
 <center>
 
@@ -7,31 +7,32 @@
 
 </center>
 
-<p>Descrição...</p>
+<p>Description.</p>
+
+[DOWNLOAD LINK](https://linktest.com/APP.exe) (version 0.1.0-a.1)
 
 ## Features:
-+ Interface.
-+ Mode player vs player (local).
-+ Score board.
-+ Mode player vs AI.
++ Functions (Developing ⚠️)
+
+## Platforms:
++ Windows
 
 ## Technologies:
 + Python 3.9.7
-<img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-+ PyQt5
-<img align="center" alt="PyQT" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg">
 
 ## How to run:
-+ Developing ⚠️
 
 ```bash
 # Clone repository:
-$ git clone <https://github.com/Leandro-Cardoso/APP-Jokenjo>
+$ git clone <https://github.com/Leandro-Cardoso/APP>
 
 # Open the project folder:
-$ cd APP-Jokenjo
+$ cd APP
 
-# Start app:
+# Install all requirements:
+$ pip install -r requirements.txt
+
+# Run app:
 $ python app.py
 ```
 
